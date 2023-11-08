@@ -1,0 +1,9 @@
+It's a simple NETFLIX-CLONE project with the help of HTML-CSS-JS.
+It's plug and play project, all files in one folder that includes.
+ 
+HTML project
+->images
+->index.html
+->style.css
+
+ 
